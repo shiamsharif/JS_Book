@@ -13,12 +13,12 @@ console.log(username);
 const homeAddress = "Jashore";
 console.log(homeAddress);
 
-const super = 16;
-console.log(super);
+// const super = 16;
+// console.log(super);
 
-const class = 12;
-console.log(class); 
+// const class = 12;
+// console.log(class);
 
-const 2ndPosition = 65;
-console.log(2ndPosition); 
-// variable name start with a-z or A-Z, $,_ ... not number or any keywords 
+//! variable name start with a-z or A-Z, $,_ ... not number or any keywords
+// const 2ndPosition = 65;
+// console.log(2ndPosition);
